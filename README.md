@@ -16,6 +16,7 @@
 ## Features
 
 ## Reference
+- [ECUShield_MEGA_ver1](https://github.com/ST04-tkmr/KicadProjects_EVProject/tree/main/ECUShield_MEGA_ver1) より
 
 ## Author
 - Takamura
