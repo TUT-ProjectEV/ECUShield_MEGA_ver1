@@ -21,5 +21,5 @@
 - Takamura
     - [GitHub](https://github.com/ST04-tkmr)
 
-## Licence
-- Copyright (c) 2023 東京工科大学 ProjectEV [Released under the MIT licence](https://github.com/TUT-ProjectEV/ECUShield_MEGA_ver1/blob/main/LICENSE)
+## License
+- Copyright (c) 2023 東京工科大学 ProjectEV [Released under the MIT license](https://github.com/TUT-ProjectEV/ECUShield_MEGA_ver1/blob/main/LICENSE)
