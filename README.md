@@ -1,2 +1,25 @@
 # ECUShield_MEGA_ver1
-2023年度のメインECUのシールド
+
+## Overview
+- メインECUのシールド
+- 2023年度10月時点で使用
+
+## Requirement
+### Development
+- Kicad 7.0
+### Boards
+- Arduino Mega
+### Libraries
+
+## Usage
+
+## Features
+
+## Reference
+
+## Author
+- Takamura
+    - [GitHub](https://github.com/ST04-tkmr)
+
+## Licence
+- Copyright (c) 2023 東京工科大学 ProjectEV [Released under the MIT licence](https://github.com/TUT-ProjectEV/ECUShield_MEGA_ver1/blob/main/LICENSE)
